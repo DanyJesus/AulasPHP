@@ -46,6 +46,8 @@ foreach($links as $link){
 :hand:
 :monkey:
 😷
+---
+emoji em title do issue [Clique aqui](https://emojipedia.org/face-with-medical-mask/)
 
 ### Marcar pessoas
 Como diria @DanieleFG
