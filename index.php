@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet"> 
-    <link rel="stylesheet" href="recursoss/css/estilo.css">
+    <link rel="stylesheet" href="recursos/css/estilo.css">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Curso PHP</title>
@@ -21,6 +21,8 @@
                    <h3>Modulo 01- Básico</h3>
                    <ul>
                        <li><a href="exercicio.php?dir=basico&file=ola" >Olá PHP</a></li>
+                       <li><a href="exercicio.php?dir=basico&file=html" >Integração HTML</a></li>
+                       <li><a href="exercicio.php?dir=basico&file=html" >Integração CSS</a></li>
                                              
                     </ul>
                </div>
