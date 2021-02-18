@@ -39,6 +39,28 @@ if($idade<18){
 }
 
 echo '<p>Spaceship</p><hr>';
+
+var_dump(5<=>3);
+echo '<br>';
+var_dump(50<=>50);
+echo '<br>';
+var_dump(1<=>3);
+echo '<br>';
+
+echo '<p>Valores pode ser V ou F</p><hr>';
+var_dump(!!5);
+echo '<br>';
+var_dump(!!0);
+echo '<br>';
+var_dump(!5);
+echo '<br>';
+var_dump(!0);
+echo '<br>';
+var_dump(!!"");
+echo '<br>';
+var_dump(!!" ");
+
+
 ?>
 <style>
 p{
