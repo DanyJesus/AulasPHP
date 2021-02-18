@@ -14,3 +14,9 @@ if ($pi <=> pi()){
 }else{
     echo '<br> Diferente';
 }
+
+if ($pi <= pi()){
+    echo '<br>Iguais';
+}else{
+    echo '<br> Diferente';
+}
