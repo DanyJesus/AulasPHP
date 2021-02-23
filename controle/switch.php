@@ -46,7 +46,21 @@ if (isset($_POST['categoria'])) {
             $carro = 'Mercedes';
             $preco = '250000';
             break;
-            
-
+        case 'Suv':
+        case 'suv':
+            //aceita mais de uma case
+            $carro = 'Renegade';
+            $preco = '80000';  
+            break;
+        case 'Sedan':
+            $carro = 'Etios';
+            $preco = '55000';
+            break;
+        default:
+        echo '<span style="color:red;">Categoria invalida</span>';
+        break;
     }
+    $precoFormatado = number_format($preco, 2, ',', '.');
+    echo "<p>Carro: $carro<br>Preco: $precoFormatado<br>Categoria:$categoria</p>";
+
 }
