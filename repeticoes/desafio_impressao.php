@@ -15,7 +15,19 @@ $array =
     "EEE"
 ];
 
-for($i=0; $i<count($array); $i=+2)
+for($i=0; $i< count($array); $i=$i+2)
 {
-echo $array[$i].'\n';
+echo $array[$i].'<br>';
+}
+echo "<br><hr><br>";
+
+for($i=0; $i<count($array); $i++){
+    if($i % 2 ===1)continue;
+    echo "{$array[$i]}<br>";
+}
+echo "<br><hr><br>";
+foreach($array as $indice => $valor){
+    if($indice % 2 ===0) echo $valor.'<br>';
+    else continue;
+    
 }
