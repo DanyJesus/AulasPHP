@@ -3,3 +3,4 @@
 echo $_GET.'<br>';
 
 print_r($_GET);
+echo "<br> {$_GET['nome']}";
