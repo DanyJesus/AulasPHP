@@ -110,6 +110,7 @@
                         <li><a href="exercicio.php?dir=funcao&file=closure_callable">Closure Callable</a></li>
                         <li><a href="exercicio.php?dir=funcao&file=recursividade">Recursividade</a></li>
                         <li><a href="exercicio.php?dir=funcao&file=desafio_recursao">Desafio Recursão</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=retornando_funcao">Retornando Função</a></li>
                     </ul>
                 </div>
             </nav>
