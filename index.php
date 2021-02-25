@@ -102,6 +102,11 @@
                     <ul>
                         <li><a href="exercicio.php?dir=funcao&file=escopo">Funções & Escopo</a></li> 
                         <li><a href="exercicio.php?dir=funcao&file=args_retorno">Argumentos & Funções</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=palindromo">Desafio Palindromo</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=args_variaveis">Argumentos Variáveis</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=args_padrao">Argumentos Padrão</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=usando_tipos">Usando Tipos</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=anonimas">Funções Anônimas</a></li>
                     </ul>
                 </div>
             </nav>
