@@ -111,6 +111,14 @@
                         <li><a href="exercicio.php?dir=funcao&file=recursividade">Recursividade</a></li>
                         <li><a href="exercicio.php?dir=funcao&file=desafio_recursao">Desafio Recursão</a></li>
                         <li><a href="exercicio.php?dir=funcao&file=retornando_funcao">Retornando Função</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=map_filter">Map & Filter</a></li>
+                    </ul>
+                </div>
+                <div class="modulo azul-escuro">
+                    <h3>Modulo 08 - Classes & Objetos</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=classe">Primeira Classes</a></li> 
+                        <li><a href="exercicio.php?dir=classes_objetos&file=desafio_data">Desafio Data</a></li> 
                     </ul>
                 </div>
             </nav>
