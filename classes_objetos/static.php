@@ -25,4 +25,4 @@ class A{
     $objetoA->mostrarStatic();// não é a forma ideal
 
     A::mostrarStatic();// acesar diretamente pela classe
-    A::$static='';
+    A::$static='Alterado o membro de classe';
